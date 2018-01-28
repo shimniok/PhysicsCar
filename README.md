@@ -12,6 +12,7 @@ In addition to the following 3d printed parts, you'll need:
 | File | Description | Print instructions |
 | --- | --- | --- |
 | clamp | Clamps pull rod onto mousetrap | Print, separate halves |
+| crossmember | middle crossmember for front and rear frame dowels |
 | crossmember_front | narrow crossmember for front part of frame | Print 1x |
 | crossmember_rear | narrow crossmember for rear part of frame | Print 1x |
 | drive_flange | attaches each side of drive wheel | Print 2x |
