@@ -3,19 +3,9 @@ A simple, low friction, 3-wheel car powered by mousetrap (or other stuff) for te
 
 Created using FreeCAD. STL files are exported from FreeCAD.
 
-## Additional parts
+ ## Parts
 
-In addition to the following 3d printed parts, you'll need:
-
- * (4) 4.8mm x 30cm (3/16" x 11-7/8") wood dowels
- * (1) 1.95mm x 915mm (0.078" x 36") piano wire
- * (8) #6 x 1/2" wood screws
- * (2) #6 x 1" machine screws
- * (2) #6 machine nuts (nylock or use Loctite blue)
- * (1) length of fishing wire, >= 6lb test
- * (1) standard mousetrap e.g., Victor
-
- ## List of 3d printed parts
+ ### List of 3d printed parts
 
  | File | Description | Print instructions |
  | --- | --- | --- |
@@ -33,36 +23,58 @@ In addition to the following 3d printed parts, you'll need:
  | trap_mount_B | Mounts the mousetrap on the rear of the frame | Print 1x |
  | wheel | Low friction, low mass rear wheels | Print 2x |
 
+### Additional parts
+
+In addition to the following 3d printed parts, you'll need:
+
+ * (4) 4.8mm x 30cm (3/16" x 11-7/8") wood dowels
+ * (1) 1.95mm x 915mm (0.078" x 36") piano wire
+ * (8) #6 x 1/2" wood screws
+ * (2) #6 x 1" machine screws
+ * (2) #6 machine nuts (nylock or use Loctite blue)
+ * (1) length of fishing wire, >= 6lb test
+ * (1) standard mousetrap e.g., Victor
+
 ## Assembly
 
+### Tools needed
+ * Safety goggles
+ * Ear plugs if using power tools
+ * Something to cut steel piano wire - Dremel with cutoff wheel, file to nick and pliers
+ to bend back and forth and break
+ * Screwdriver(s) for #6 hardware
+ * Wrench for #6 nuts
+ * Knife or scissors to cut clamp apart
+
 ### Frame
-  * Push two rods into front crossmember about halfway.
-  * Push other end of these two rods into the inner holes of the middle crossmember just
+ * Push two rods into front crossmember about halfway.
+ * Push other end of these two rods into the inner holes of the middle crossmember just
 enough so their ends are flush with the other side of the crossmember.
-  * Push two new rods into the outer holes of the middle crossmember just enough so their
+ * Push two new rods into the outer holes of the middle crossmember just enough so their
 ends are flush with the other side of the crossmember.
-  * Push front trap mount onto rear rods
-  * Insert trap into front trap mount so, when sprung, arm is to the rear.
-  * Push rear trap mount onto rear rods and push onto rear of trap
-  * Push rear crossmember onto rods a few inches
-  * Push the rod ends onto ends of each rod
+ * Push front trap mount onto rear rods
+ * Insert trap into front trap mount so, when sprung, arm is to the rear.
+ * Push rear trap mount onto rear rods and push onto rear of trap
+ * Push rear crossmember onto rods a few inches
+ * Push the rod ends onto ends of each rod
 
 ###Wheels
-  * Insert wire, which will become rear axle, into rear rod end holes
-  * Push rear wheels, hub inboard, onto each axle end
-  * Push hub onto each end of the axle. Adjust for stable, low friction spin
-  * Trim axle length
-  * Use #6 wood screws to attach drive flanges to drive wheel
-  * Hold drive wheel/flanges in between front rod ends
-  * Push another wire through one rod end, through drive wheel, and through other rod end.
-  * Push hub onto each end of the axle. Adjust for stable, low friction spin
-  * Trim axle length
+ * Insert wire, which will become rear axle, into rear rod end holes
+ * Push rear wheels, hub inboard, onto each axle end
+ * Push hub onto each end of the axle. Adjust for stable, low friction spin
+ * Trim axle length
+ * Use #6 wood screws to attach drive flanges to drive wheel
+ * Hold drive wheel/flanges in between front rod ends
+ * Push another wire through one rod end, through drive wheel, and through other rod end.
+ * Push hub onto each end of the axle. Adjust for stable, low friction spin
+ * Trim axle length
 
 ###Pull rod
-  * Use the #6 machine screws and nuts to loosely attach clamp onto the mouse trap arm
-  * Insert pull rod into clamp
-  * Insert pull rod end onto end of pull rod
-  * Tie fishing wire onto pull rod end
-  * Attach fishing line to drive flange.
-  * Rotate drive wheel to spool up fishing line and hold it to keep from rotating
-  * Place on ground, release drive wheel, and zoom! :)
+ * Cut clamp tab off, separating each half of the clamp
+ * Use the #6 machine screws and nuts to loosely attach clamp onto the mouse trap arm
+ * Insert pull rod into clamp
+ * Insert pull rod end onto end of pull rod
+ * Tie fishing wire onto pull rod end with a strong knot that won't pull loose
+ * Attach fishing line to drive flange.
+ * Rotate drive wheel to spool up fishing line and hold it to keep from rotating
+ * Place on ground, release drive wheel, and zoom! :)
