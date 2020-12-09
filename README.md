@@ -58,7 +58,7 @@ ends are flush with the other side of the crossmember.
  * Push rear crossmember onto rods a few inches
  * Push the rod ends onto ends of each rod
 
-###Wheels
+### Wheels
  * Insert wire, which will become rear axle, into rear rod end holes
  * Push rear wheels, hub inboard, onto each axle end
  * Push hub onto each end of the axle. Adjust for stable, low friction spin
@@ -69,7 +69,7 @@ ends are flush with the other side of the crossmember.
  * Push hub onto each end of the axle. Adjust for stable, low friction spin
  * Trim axle length
 
-###Pull rod
+### Pull rod
  * Cut clamp tab off, separating each half of the clamp
  * Use the #6 machine screws and nuts to loosely attach clamp onto the mouse trap arm
  * Insert pull rod into clamp
