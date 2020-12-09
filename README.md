@@ -33,9 +33,9 @@ In addition to the following 3d printed parts, you'll need:
  | trap_mount_B | Mounts the mousetrap on the rear of the frame | Print 1x |
  | wheel | Low friction, low mass rear wheels | Print 2x |
 
-##Assembly
+## Assembly
 
-###Frame
+### Frame
   * Push two rods into front crossmember about halfway.
   * Push other end of these two rods into the inner holes of the middle crossmember just
 enough so their ends are flush with the other side of the crossmember.
